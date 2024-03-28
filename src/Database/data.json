@@ -1,0 +1,209 @@
+{
+  "Manager": [
+    {
+      "id": "a2cb",
+      "name": "wffss",
+      "email": "harry7@gmail.com",
+      "password": "12345678",
+      "phone": "1234567890",
+      "profile": "dsvsdsv"
+    },
+    {
+      "id": "860e",
+      "name": "fsdgd",
+      "email": "sdfdf@dssds",
+      "password": "1234",
+      "phone": "1234456788",
+      "profile": "gdg"
+    }
+  ],
+  "Products": [
+    {
+      "name": "Chicken Briyani",
+      "category": "Non-Veg",
+      "description": "This briyani is too spicy and colorfully.",
+      "price": "350",
+      "quantity": "1",
+      "ratings": "5",
+      "thumbnailurl": "https://meghanafoods.co.in/photo/Mutton%20Biryani.jpg",
+      "restaurant": "Meghanas Briyani",
+      "id": "c7b7"
+    },
+    {
+      "name": "Chicken Briyani",
+      "category": "Non-Veg",
+      "description": "Hot and spicy briyani",
+      "price": "300",
+      "quantity": "1",
+      "ratings": "5",
+      "thumbnailurl": "https://www.kannammacooks.com/wp-content/uploads/buhari-hotel-chennai-chicken-biryani-recipe-1-4-300x300.jpg",
+      "restaurant": "Buhari Hotel",
+      "id": "d417"
+    },
+    {
+      "id": "9c95",
+      "category": "Non-Veg",
+      "name": "Mutton Briyani",
+      "restaurant": "salem RR briyani",
+      "price": "250",
+      "ratings": "5",
+      "quantity": "1",
+      "description": "this briyani is shuttle spicy and good",
+      "thumbnailurl": "https://content.jdmagicbox.com/comp/chengalpattu/m9/9999pxx44.xx44.180918191027.z6m9/catalogue/rr-biryani-melrosapuram-chengalpattu-fast-food-6vuql8eno6.jpg"
+    },
+    {
+      "id": "2f73",
+      "category": "Veg",
+      "name": "French fries",
+      "restaurant": "KFC",
+      "price": "90",
+      "ratings": "4",
+      "quantity": "1",
+      "description": "the tasty spicy periperi fries and it's a good snack",
+      "thumbnailurl": "https://qsrmedia.co.uk/sites/default/files/styles/opengraph/public/2021-05/kfc_news_fries_2.jpg?itok=8xm4VqHf"
+    },
+    {
+      "id": "8d59",
+      "category": "Non-Veg",
+      "name": "Pizza",
+      "restaurant": "Dominos ",
+      "price": "235",
+      "ratings": "4",
+      "quantity": "1",
+      "description": "A pizza is fully made of cheese ,alives and chickens.",
+      "thumbnailurl": "https://img.freepik.com/free-photo/freshly-italian-pizza-with-mozzarella-cheese-slice-generative-ai_188544-12347.jpg"
+    },
+    {
+      "id": "a999",
+      "category": "Desserts",
+      "name": "Blackcurrent cake",
+      "restaurant": "ibacoo",
+      "price": "350",
+      "ratings": "5",
+      "quantity": "1",
+      "description": "choose from wide side of toppings and customize your black current ice cream cake",
+      "thumbnailurl": "https://www.ibaco.in/assets/img/cakes/Ice-Cream-Cake-Blackcurrant.jpg"
+    },
+    {
+      "id": "fc1a",
+      "category": "Starters",
+      "name": "Mushroom ghee Rhost",
+      "restaurant": "Nandhana Palace",
+      "price": "299",
+      "ratings": "5",
+      "quantity": "1",
+      "description": "A signature preparation of the house.fresh mushrooms are tossed in pure ghee and a signature masala.",
+      "thumbnailurl": "https://1.bp.blogspot.com/-48UHD7NtF7w/X1B4q-6nrDI/AAAAAAAA8w0/TD3txBFvpmkG2WIe2b8dmK8ZUW1rHLm7wCLcBGAsYHQ/s2048/IMG_1825%2Bv.jpg"
+    },
+    {
+      "id": "8979",
+      "category": "chinese",
+      "name": "Fried Rice",
+      "restaurant": "Mainland China",
+      "price": "120",
+      "ratings": "4",
+      "quantity": "1",
+      "description": "shuttle and saucy fried rice.",
+      "thumbnailurl": "https://bigoven-res.cloudinary.com/image/upload/chinese-fried-rice-14.jpg"
+    },
+    {
+      "id": "f4e7",
+      "category": "Sea Food",
+      "name": "prawn Briyani",
+      "restaurant": "Fisherman’s Feast",
+      "price": "290",
+      "ratings": "4",
+      "quantity": "1",
+      "description": "Fleshy and healty prawn briyani.",
+      "thumbnailurl": "https://www.awesomecuisine.com/wp-content/uploads/2009/10/Prawn-Biryani.jpg"
+    },
+    {
+      "id": "4d42",
+      "category": "Non-Veg",
+      "name": "chicken briyani",
+      "restaurant": "Malabar briyani",
+      "price": "270",
+      "ratings": "3",
+      "quantity": "1",
+      "description": "Mix with masala and rice made rich and creamy  briyani.",
+      "thumbnailurl": "https://vedics.in/wp-content/uploads/2023/06/WhatsApp-Image-2023-06-10-at-8.07.17-PM-500x375.jpeg"
+    },
+    {
+      "id": "3e17",
+      "category": "Starters",
+      "name": "pallipalayam",
+      "restaurant": "Pallipalayam Chicken",
+      "price": "190",
+      "ratings": "5",
+      "quantity": "1",
+      "description": "No additional masala it's made with only dry chilli and coconut  but you feel  spicy.",
+      "thumbnailurl": "https://i.pinimg.com/originals/17/0f/22/170f22453a213db00c1afb96d41fc42f.jpg"
+    },
+    {
+      "id": "6e8b",
+      "category": "Non-Veg",
+      "name": "Chicken Briyani",
+      "restaurant": "Ambur  Briyani",
+      "price": "190",
+      "ratings": "5",
+      "quantity": "1",
+      "description": "This briyani is made with masala and the chicken is so tendery.",
+      "thumbnailurl": "https://online.powellnet.com/wp-content/uploads/2020/01/chicken-biryani.jpg"
+    },
+    {
+      "id": "ae56",
+      "category": "Breads",
+      "name": "Bread omlete",
+      "restaurant": "Aakash Cafe",
+      "price": "70",
+      "ratings": "4",
+      "quantity": "1",
+      "description": "The bread omlete  is made with egg, cheese and bread.",
+      "thumbnailurl": "https://cdn.kuali.com/wp-content/uploads/2021/01/20190402/Bread-omellete.jpg"
+    },
+    {
+      "id": "72c0",
+      "category": "Veg",
+      "name": "Masala Dosa",
+      "restaurant": "Rameshwaram Cafe",
+      "price": "90",
+      "ratings": "4",
+      "quantity": "1",
+      "description": "Masala dosa has even made the list of 10 foods to try before you die.",
+      "thumbnailurl": "https://th.bing.com/th/id/OIP.o6fs1WjTH-8nwerRsq9N7gAAAA?rs=1&pid=ImgDetMain"
+    },
+    {
+      "id": "b0ec",
+      "category": "Beverages",
+      "name": "Mojito",
+      "restaurant": "Sabas cafe",
+      "price": "85",
+      "ratings": "3",
+      "quantity": "1",
+      "description": "The combination of sugar, mint, lime juice and soda water is nothing if not refreshing, and using unaged white rum, rather than a dark rum, is key to that refreshment.",
+      "thumbnailurl": "https://www.liquor.com/thmb/W0jnO_BTJft_zsaCFVa2XE0cdLs=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/__opt__aboutcom__coeus__resources__content_migration__liquor__2019__07__29140005__mojito-720x720-recipe-e36cd0be89084ed1a001a0875225fb59.jpg"
+    },
+    {
+      "id": "12fe",
+      "category": "Non-Veg",
+      "name": "Zinger burger",
+      "restaurant": "Burger King",
+      "price": "170",
+      "ratings": "4",
+      "quantity": "1",
+      "description": "It's delicious stuffed with chicken patty and veggies.",
+      "thumbnailurl": "https://wallpapercave.com/wp/wp4062001.jpg"
+    },
+    {
+      "id": "d771",
+      "category": "Veg",
+      "name": "Mini Idly",
+      "restaurant": "Adyar Anandha Bhavan",
+      "price": "130",
+      "ratings": "4",
+      "quantity": "1",
+      "description": "The iddly is fried with masala it's in small pieces ",
+      "thumbnailurl": "https://th.bing.com/th/id/R.80bb01422d9d773e16778988045e6b2b?rik=5TF3ZQ64VMkfUg&riu=http%3a%2f%2fwww.shadesofkitchen.com%2fwp-content%2fuploads%2f2020%2f01%2fxOptimized-Podi-Idly-1.jpg.pagespeed.ic.M9RX-hVV8f.jpg&ehk=aHEeuDIp6EOF30PmeH0wCIaPYzNBfLjGdWcblYTRDVI%3d&risl=&pid=ImgRaw&r=0"
+    }
+  ]
+}
